@@ -1,2 +1,3 @@
 new file
-I in in newBranch ==> Repo Update
+
+I am at newBranch1 after Rebase
